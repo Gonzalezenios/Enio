@@ -48,9 +48,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 40px;
-    width: 70px;
-    height: 70px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
     color: white;
     
 }
@@ -58,36 +58,48 @@ body {
 #formacion {
     border-radius: 100%;
     background: black;
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 40px;
+    font-size: 30px;
+    color: white;
+}
+
+#idiomas{
+    border-radius: 100%;
+    background: black;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
     color: white;
 }
 
 #experiencia {
     border-radius: 100%;
     background: black;
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 40px;
+    font-size: 30px;
     color: white;
 }
 
 #portafolio {
     border-radius: 100%;
     background: black;
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 40px;
+    font-size: 30px;
     color:  white;
 }
 
@@ -117,7 +129,7 @@ body {
 .footer{
     display: flex;
     width: 100vw;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding: 20px 60px;  
     border-top: 2px solid lightgray;
@@ -128,9 +140,9 @@ body {
     color: #0B3954;
 }
 
-.fa-google{
+.fa-github{
     font-size: 40px;
-    color: #DD0426;
+    color:#372248;
 }
 
 .fa-linkedin{
@@ -139,11 +151,12 @@ body {
 
 .fa-instagram{
     font-size: 40px;
-    color: #570075;
+    color: #C81D25;
 }
 
 .fa-arrow-up{
     font-size: 40px;
+    color: #000000
 }
 
 ul {
