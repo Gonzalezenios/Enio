@@ -49,9 +49,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 30px;
-    width: 50px;
-    height: 50px;
+    font-size: 40px;
+    width: 70px;
+    height: 70px;
     color: white;
     
 }
@@ -59,48 +59,48 @@ body {
 #formacion {
     border-radius: 100%;
     background: black;
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 30px;
+    font-size: 40px;
     color: white;
 }
 
 #idiomas{
     border-radius: 100%;
     background: black;
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 30px;
+    font-size: 40px;
     color: white;
 }
 
 #experiencia {
     border-radius: 100%;
     background: black;
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 30px;
+    font-size: 40px;
     color: white;
 }
 
 #portafolio {
     border-radius: 100%;
     background: black;
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 30px;
+    font-size: 40px;
     color:  white;
 }
 
