@@ -16,17 +16,18 @@ body {
 .header {
     display: flex;
     width: 100vw;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 10px 20px; 
 }
 
-.cuadro {
-    display: flex;
-}
-.cuadrito + .cuadrito {
+/*.cuadro {
     display: flex;
     margin-left: 8px;
 }
+/*.cuadrito + .cuadrito {
+    display: flex;
+    margin-left: 8px;
+}*/
 
 #perfil {
     display: flex;
@@ -37,7 +38,7 @@ body {
 
 .historias {
     display: flex;
-  justify-content: space-around;
+    justify-content: space-around;
     padding: 15px 0;
     border-bottom: 2px solid lightgray;
 }
