@@ -16,8 +16,9 @@ body {
 .header {
     display: flex;
     width: 100vw;
-    justify-content: space-around;
-    padding: 10px 20px; 
+    justify-content: space-between;
+    padding: 1% 7%; 
+    border-bottom: 2px solid lightgray;
 }
 
 /*.cuadro {
@@ -30,78 +31,82 @@ body {
 }*/
 
 #perfil {
-    display: flex;
     border-radius: 100%;
-    width: 70px;
-    height: 70px;
+    width: 10%;
+    height: 100%;
 }
 
-.historias {
+/*.historias {
     display: flex;
     justify-content: space-around;
-    padding: 15px 0;
+    padding: 10px 20px;
     border-bottom: 2px solid lightgray;
-}
+}*/
 
 #presentacion {
-    border-radius: 100%;
+    border-radius: 10%;
     background: black;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 40px;
-    width: 70px;
-    height: 70px;
+    font-size: 3em;
+    width: 260%;
+    height: 100%;
     color: white;
     
 }
 
 #formacion {
-    border-radius: 100%;
+    border-radius: 10%;
     background: black;
-    width: 70px;
-    height: 70px;
+    width: 260%;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 40px;
+    font-size: 3em;
     color: white;
 }
 
 #idiomas{
-    border-radius: 100%;
+    border-radius: 10%;
     background: black;
-    width: 70px;
-    height: 70px;
+    width: 260%;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 40px;
+    font-size: 3em;
     color: white;
 }
 
 #experiencia {
-    border-radius: 100%;
+    border-radius: 10%;
     background: black;
-    width: 70px;
-    height: 70px;
+    width: 260%;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 40px;
+    font-size: 3em;
     color: white;
 }
 
 #portafolio {
-    border-radius: 100%;
+    border-radius: 10%;
     background: black;
-    width: 70px;
-    height: 70px;
+    width: 260%;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 40px;
+    font-size: 3em;
     color:  white;
+}
+
+#nombre{
+    text-align: center;
+    font-size: ;
 }
 
 .vista {
@@ -130,7 +135,7 @@ body {
 .footer{
     display: flex;
     width: 100vw;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     padding: 20px 60px;  
     border-top: 2px solid lightgray;
@@ -142,21 +147,21 @@ body {
 }
 
 .fa-github{
-    font-size: 40px;
+    font-size: 2.5em;
     color:#372248;
 }
 
 .fa-linkedin{
-    font-size: 40px;
+    font-size: 2.5em;
 }
 
-.fa-instagram{
-    font-size: 40px;
-    color: #C81D25;
+.fa-whatsapp{
+    font-size: 2.5em;
+    color: green;
 }
 
 .fa-arrow-up{
-    font-size: 40px;
+    font-size: 2.5em;
     color: #000000
 }
 
@@ -175,41 +180,30 @@ h4{
 
 #iconos{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    font-size: 2em;
 }
 
-.fa-user-astronaut{
-    display: flex;
-    justify-content: space-around;
+/*.fa-user-astronaut{
     font-size: 40px;
 }
 
 .fa-laptop-code{
-    display: flex;
-    justify-content: space-around;
     font-size: 40px;
 }
 
 .fa-bullhorn{
-    display: flex;
-    justify-content: space-around;
     font-size: 40px;
 }
 
 .fa-lightbulb{
-    display: flex;
-    justify-content: space-around;
     font-size: 40px;
 }
 
 .fa-glasses{
-    display: flex;
-    justify-content: space-around;
     font-size: 40px;
 }
 
 .fa-brain{
-    display: flex;
-    justify-content: space-around;
     font-size: 40px;
-}
+}*/
